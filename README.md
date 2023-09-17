@@ -10,7 +10,7 @@
 <b>meetingNotes</b> is a project management tool (a Google Doc) in which you can store meeting minutes/notes, as with any editor.  The unique feature of meetingNotes is the feature of being able to highlight a sentence and designate it as an action item / follow-up task that will be entered into the designated "mindDump" file (a to-do file whose repository is https://github.com/pmarcum/mindDump), as well as entered into your Google Tasks, all at the push of a button.  You assign a task category to organize the sentences that you highlight, as well as an optional due-date.  Tracking progress of the task is performed either with the mindDump file and/or Google Tasks. 
 
 The below is a link to the meetingNotes (a to-do list management tool) Google Doc on Google Drive: 
-https://docs.google.com/spreadsheets/d/1x-6kNBgXskk7WDqGsTuXXpFxcGIO_QlNlTFbNxXKdXE/copy
+https://docs.google.com/document/d/1x-6kNBgXskk7WDqGsTuXXpFxcGIO_QlNlTFbNxXKdXE/copy
 
 If you hit the "Copy" button that appears when you follow the above link, a copy of the Google Doc will appear on the "My Drive" folder (at the top of the folder hierarchy) in your Google Drive. That copy, which will include the attached script that makes meetingNotes work, is yours to use for your project management. Ideally, you would move the file down into a folder designated for your project management activities. 
 
