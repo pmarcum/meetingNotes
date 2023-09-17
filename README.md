@@ -18,12 +18,12 @@ In addition to meetingNotes, you should also copy mindDump, the task-tracking "t
 
 Unfortunately because of Google limitations, the sidemenu that provides the functionality that allows you to assign highlighted sentences as tasks will not pop up automatically when you open up the file.  So every time that you open up meetingNotes, you should open up the side-menu as well.  You open that menu by click on the 📄➡📆  at the top of the menu, then select "SHOW TASK CREATION SIDE-MENU".  The first time that you try to display the side menu, you will be asked for authorization. Specifically, you will see the following, and should take the indicated action: 
 
-"Authorization Required" --> click on the GREEN "Continue" 
-"Choose an account" --> select the Google Account / email that you wish to use by clicking on it.
-"Google hasn't verified this app":  
-    --> scroll to the bottom and click on the small grey underlined "Advanced" in lower left corner.
-    --> scroll down to bottom and click on small grey underlined "Go to meetingNotes (unsafe)" at the very bottom.
-"meetingNotes wants to access your Google Account" --> scroll to the bottom and click the "Allow" button.
+"Authorization Required" --> click on the GREEN "Continue" <br>
+"Choose an account" --> select the Google Account / email that you wish to use by clicking on it.<br>
+"Google hasn't verified this app":  <br>
+    --> scroll to the bottom and click on the small grey underlined "Advanced" in lower left corner.<br>
+    --> scroll down to bottom and click on small grey underlined "Go to meetingNotes (unsafe)" at the very bottom.<br>
+"meetingNotes wants to access your Google Account" --> scroll to the bottom and click the "Allow" button.<br>
 
 One-time-only initialization:  
 To set meetingNotes up for use, you only have to do 2 things: 
