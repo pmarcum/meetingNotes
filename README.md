@@ -44,7 +44,7 @@ Feel free to contact me if you run into permission problems or if you notice any
 ================================
          Updates: 
 ================================
-Latest version is 09152023
+Latest version is 09162023
 
-09/15/2023: 
-- First release of mindDump. 
+09/16/2023: 
+- First release of meetingNotes. 
