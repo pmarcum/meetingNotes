@@ -1,20 +1,20 @@
 # meetingNotes
 
 <p style="position: relative; overflow:auto">
-  <img src="https://github.com/pmarcum/mindDump/blob/main/meetingNotes_banner_logo.png"
+  <img src="https://github.com/pmarcum/meetingNotes/blob/main/meetingNotes_banner_logo.png"
        width=300
        style="display:inline-block;padding-right:10px"
        alt="meetingNotes-banner-logo">
 </p>
 
-<b>meetingNotes</b> is a project management tool (a Google Doc) in which you can store meeting minutes/notes, as with any editor.  The unique feature of meetingNotes is the feature of being able to highlight a sentence and designate it as an action item / follow-up task that will be entered into the designated "mindDump" file (a to-do file whose repository is here), as well as entered into your Google Tasks, all at the push of a button.  You assign a task category to organize the sentences that you highlight, as well as an optional due-date.  Tracking progress of the task is performed either with the mindDump file and/or Google Tasks. 
+<b>meetingNotes</b> is a project management tool (a Google Doc) in which you can store meeting minutes/notes, as with any editor.  The unique feature of meetingNotes is the feature of being able to highlight a sentence and designate it as an action item / follow-up task that will be entered into the designated "mindDump" file (a to-do file whose repository is https://github.com/pmarcum/mindDump), as well as entered into your Google Tasks, all at the push of a button.  You assign a task category to organize the sentences that you highlight, as well as an optional due-date.  Tracking progress of the task is performed either with the mindDump file and/or Google Tasks. 
 
 The below is a link to the meetingNotes (a to-do list management tool) Google Doc on Google Drive: 
 https://docs.google.com/spreadsheets/d/1x-6kNBgXskk7WDqGsTuXXpFxcGIO_QlNlTFbNxXKdXE/copy
 
 If you hit the "Copy" button that appears when you follow the above link, a copy of the Google Doc will appear on the "My Drive" folder (at the top of the folder hierarchy) in your Google Drive. That copy, which will include the attached script that makes meetingNotes work, is yours to use for your project management. Ideally, you would move the file down into a folder designated for your project management activities. 
 
-In addition to meetingNotes, you should also copy mindDump, the task-tracking "to-do list" spreadsheet that partners closely with meetingNotes and gives meetingNotes its unique functionality.  Go to the mindDump repository and follow the instructions there for copying and setting up that tool. 
+In addition to meetingNotes, you should also copy mindDump, the task-tracking "to-do list" spreadsheet that partners closely with meetingNotes and gives meetingNotes its unique functionality.  Go to the mindDump repository (https://github.com/pmarcum/mindDump/) and follow the instructions there for copying and setting up that tool. 
 
 Unfortunately because of Google limitations, the sidemenu that provides the functionality that allows you to assign highlighted sentences as tasks will not pop up automatically when you open up the file.  So every time that you open up meetingNotes, you should open up the side-menu as well.  You open that menu by click on the 📄➡📆  at the top of the menu, then select "SHOW TASK CREATION SIDE-MENU".  The first time that you try to display the side menu, you will be asked for authorization. Specifically, you will see the following, and should take the indicated action: 
 
